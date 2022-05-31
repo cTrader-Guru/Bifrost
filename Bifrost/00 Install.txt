@@ -1,0 +1,23 @@
+
+
+
+	You can find all references regarding Bifrost on the official website cTrader Guru :
+
+		.	https://ctrader.guru/shop/tools/bifrost/
+
+
+	Installation, really very simple :
+
+		.	First of all you have to install the setup of the framework, in the folder "01 Framework"
+			you will find the download link but also the setup already downloaded, start "vc_redist.x86.exe",
+			at the end if we notice that something is wrong in Metatrader then we will also install "vc_redist.x64.exe"
+
+		.	In the folder "02 cTrader" you will find the two executable files for the cTrader run both files
+			double-click on "Bifrost Copyer.algo" and "Bifrost Provider.algo".
+
+		.	In the folder "03 Metatrader 4" you will find the folder "MQL4" that will have to be copied and pasted into the
+			path of your Metatrader 4 installation, to know the right path you must open the MT4 Terminal
+			and in File --> Open Data Folder --> Paste the folder MQL4 and all the files will be correctly positioned.
+
+		.	In the folder "04 Metatrader 5" you will find files similar to those of MT4, do the same procedure with the folder
+			MQL5
