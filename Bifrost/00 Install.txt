@@ -3,8 +3,9 @@
 
 	You can find all references regarding Bifrost on the official website cTrader Guru :
 
-		.	https://ctrader.guru/shop/tools/bifrost/
-
+		.	https://ctrader.guru/?repository=bifrost&category=cbots
+				
+		.	https://www.youtube.com/watch?v=Y3CV074hQTU
 
 	Installation, really very simple :
 
