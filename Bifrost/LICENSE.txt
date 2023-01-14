@@ -1,11 +1,5 @@
 
 
 
-	. Expire 2023.01.31 23:59:59
-
-	
-
-	. Bifrost Provider/Copyer 1.16
-		
-		MT4/MT5	--> Key --> BQJThojKYFULVPUD/6Wh+krTiZ5ln3iZAurpCnGBoO+mA6TPDFRNEBc2dpq7rkFQ4Mb355XyyakY5CP0cFUsq0oT64Dy+FPTaEiFW6QMGUyXQHDooxPrbXI+qm0ZXf+w
-		cTrader	--> Key --> HBWvKoAkleW1mZA6zvzr2S4jyblGs/yZDwI0utFgoTC5233CKYA5k6H+80gqCpzW3N6rdStT3m561O8WEb3UxJMkD3IYaebWHPTIqC8OL1IcaimmJ7X6GVpy+AgGTQzY
+	Expire	--> 2023.01.31 23:59:59
+	Bifrost	--> Key --> lbPpv3pixRM8yxmbjGLlW0Bn5zkCHs8jNIW2iWQ9a/6e5ORqxnw+0phWXd/iKgwo74Zb34KMimcIpP2gf/YKnvlZ6LeWaWnqX54yKPmEuuxzhHKlhQe5dDakC5fsMadGHP5bbQVo9q03Y4H6tA0VMg==
